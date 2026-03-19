@@ -1,0 +1,11 @@
+Conclusiones:
+
+-Arquitectura sólida: Utiliza patrones modernos con Screenplay para separar responsabilidades (tasks, questions, models), lo que facilita el mantenimiento y escalabilidad de las pruebas.
+
+-Integración BDD: Cucumber permite escribir escenarios en lenguaje natural (español), alineando pruebas con requisitos de negocio.
+
+-Reportes automatizados: Serenity genera reportes detallados en HTML (almacenados en target/site/serenity), útiles para análisis de resultados y debugging.
+
+-Configuración flexible: serenity.conf permite ajustar navegador (actualmente Chrome), modo headless y otras opciones sin modificar código.
+
+
